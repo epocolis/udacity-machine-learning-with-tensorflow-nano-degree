@@ -1,1 +1,1 @@
-# udacity-machine-learning-with-tensorflow-nano-degree
+# Udacity Machine Learning with tensorflow nano-degree
