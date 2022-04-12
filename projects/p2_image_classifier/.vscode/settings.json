@@ -1,0 +1,8 @@
+{
+    "python.formatting.provider": "black",
+    "workbench.colorCustomizations": {
+        "activityBar.background": "#4E0F57",
+        "titleBar.activeBackground": "#6D157A",
+        "titleBar.activeForeground": "#FEFCFE"
+    }
+}
