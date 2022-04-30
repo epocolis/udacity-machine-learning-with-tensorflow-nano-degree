@@ -3,3 +3,7 @@
 *.pyc
 *.csv
 .vscode
+*~
+*.joblib
+*.md
+

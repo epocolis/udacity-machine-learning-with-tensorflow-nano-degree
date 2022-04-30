@@ -136,7 +136,7 @@ def feature_plot(importances, X_train, y_train):
           label = "Feature Weight")
     pl.bar(np.arange(5) - 0.3, np.cumsum(values), width = 0.2, align = "center", color = '#00A0A0', \
           label = "Cumulative Feature Weight")
-    pl.xticks(np.arange(5), columns)
+    pl.xticks(np.arange(5), columns,rotation=45)
     pl.xlim((-0.5, 4.5))
     pl.ylabel("Weight", fontsize = 12)
     pl.xlabel("Feature", fontsize = 12)
